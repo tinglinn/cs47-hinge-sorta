@@ -1,4 +1,4 @@
-# Starter repo for A2
+# Hinge Clone with React Native!
 ## Steps to get started:
  1. Download/clone the repo. Either by using git:
  ```git clone https://github.com/ruslanjabari/cs47-a2-starter/``` 
